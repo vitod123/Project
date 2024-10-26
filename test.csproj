@@ -8,6 +8,47 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <None Include="wwwroot\icons\app-development1.png" />
+	  <None Include="wwwroot\icons\coding1.png" />
+	  <None Include="wwwroot\icons\design1.png" />
+	  <None Include="wwwroot\icons\social-media1.png" />
+	  <None Include="wwwroot\img2\8602650.png" />
+	  <None Include="wwwroot\img2\8602730.png" />
+	  <None Include="wwwroot\img2\Artboard_1.png" />
+	  <None Include="wwwroot\img2\Ellipse 5 %281%29.svg" />
+	  <None Include="wwwroot\img2\he_people_boy_adult_young_student-512.png" />
+	  <None Include="wwwroot\img2\he_people_boy_adult_young_student-512.webp" />
+	  <None Include="wwwroot\img2\PngItem_278741.png" />
+	  <None Include="wwwroot\img2\Remove-bg.ai_1729027873510.png" />
+	  <None Include="wwwroot\img2\teen-young-adult-avatar-handsome-thumbs-up-512.png" />
+	  <None Include="wwwroot\img2\teen-young-adult-avatar-handsome-thumbs-up-512.webp" />
+	  <None Include="wwwroot\img2\united-kingdom-flag-in-grunge-style-png.jpg" />
+	  <None Include="wwwroot\img2\user-128.png" />
+	  <None Include="wwwroot\img\aboutMe.png" />
+	  <None Include="wwwroot\img\blog\1.jpg" />
+	  <None Include="wwwroot\img\blog\2.jpg" />
+	  <None Include="wwwroot\img\blog\3.jpg" />
+	  <None Include="wwwroot\img\blog\4.jpg" />
+	  <None Include="wwwroot\img\blog\5.jpg" />
+	  <None Include="wwwroot\img\blog\6.jpg" />
+	  <None Include="wwwroot\img\d5513130e30228fc090ed18965d43338.jpg" />
+	  <None Include="wwwroot\img\hero.png" />
+	  <None Include="wwwroot\img\pngimg.com - children_PNG17974.png" />
+	  <None Include="wwwroot\img\portfolio\1.jpg" />
+	  <None Include="wwwroot\img\portfolio\2.jpg" />
+	  <None Include="wwwroot\img\portfolio\3.jpg" />
+	  <None Include="wwwroot\img\portfolio\4.jpg" />
+	  <None Include="wwwroot\img\portfolio\5.jpg" />
+	  <None Include="wwwroot\img\portfolio\6.jpg" />
+	  <None Include="wwwroot\img\resume.pdf" />
+	  <None Include="wwwroot\img\support.png" />
+	  <None Include="wwwroot\shapes\circle.png" />
+	  <None Include="wwwroot\shapes\half-ring.png" />
+	  <None Include="wwwroot\shapes\ring.png" />
+	  <None Include="wwwroot\shapes\second-circle.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Azure.Identity" Version="1.12.1" />
 		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.10" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
